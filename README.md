@@ -15,5 +15,8 @@ npm run serve
 npm run build
 ```
 
+### Firebase web hosting app
+https://muso-ninjas-6274f.web.app
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
